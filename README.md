@@ -1,10 +1,12 @@
-# Text Tools
+Major Text Analysis Miner
 
 Text Analysis and Visualization Tools Automatically Online
 
+<iframe src="https://bemorebitcoin.shinyapps.io/TextVisualisations/" title="text analysis tool"></iframe>
+
 <br>
 <p align="center">
-<button onclick="window.open('https://bemorebitcoin.shinyapps.io/TextVisualisations/')">Upload Text</button>
+<button onclick="window.open('')">Upload Text</button>
 </p>
 <br>
 
